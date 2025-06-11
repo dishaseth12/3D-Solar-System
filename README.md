@@ -32,4 +32,4 @@ README.md
 
 1. **Download** the folder or clone the project using Git:
    ```bash
-   git clone https://github.com/your-username/3d-solar-system.git
+   git clone https://github.com/dishaseth12/3D-Solar-System.git
